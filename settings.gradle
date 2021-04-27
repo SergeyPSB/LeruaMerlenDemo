@@ -1,2 +1,7 @@
+pluginManagement {
+    plugins {
+        id 'org.jetbrains.kotlin.plugin.serialization' version '1.4.30'
+    }
+}
 include ':app'
 rootProject.name = "LeruaMerlenDemo"
